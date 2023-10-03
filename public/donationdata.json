@@ -1,0 +1,123 @@
+[
+    {
+      "image": "https://i.ibb.co/P91ntKM/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "description": "Clean water for children is a fundamental human right, essential for their growth and well-being. Access to clean, safe drinking water is crucial to prevent waterborne diseases and ensure healthy development. Providing clean water to children not only enhances their physical health but also enables them to attend school regularly, fostering educational opportunities. Moreover, it empowers communities to break the cycle of poverty and build a brighter future. Supporting initiatives that bring clean water to children is a vital step in creating a healthier and more equitable world for the next generation.",
+      "price": "$99.99",
+      "cardBackgroundColor": "#f7f7f7",
+      "categoryBackgroundColor": "#3498db",
+      "textColor": "#333333"
+    },
+    {
+      "image": "https://i.ibb.co/P91ntKM/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "description": "Clean water for children is a fundamental human right, essential for their growth and well-being. Access to clean, safe drinking water is crucial to prevent waterborne diseases and ensure healthy development. Providing clean water to children not only enhances their physical health but also enables them to attend school regularly, fostering educational opportunities. Moreover, it empowers communities to break the cycle of poverty and build a brighter future. Supporting initiatives that bring clean water to children is a vital step in creating a healthier and more equitable world for the next generation.",
+      "price": "$49.99",
+      "cardBackgroundColor": "#ffffff",
+      "categoryBackgroundColor": "#e74c3c",
+      "textColor": "#666666"
+    },
+    {
+      "image": "https://i.ibb.co/P91ntKM/Health.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "description": "Clean water for children is a fundamental human right, essential for their growth and well-being. Access to clean, safe drinking water is crucial to prevent waterborne diseases and ensure healthy development. Providing clean water to children not only enhances their physical health but also enables them to attend school regularly, fostering educational opportunities. Moreover, it empowers communities to break the cycle of poverty and build a brighter future. Supporting initiatives that bring clean water to children is a vital step in creating a healthier and more equitable world for the next generation.",
+      "price": "$149.99",
+      "cardBackgroundColor": "#f5f5f5",
+      "categoryBackgroundColor": "#2ecc71",
+      "textColor": "#444444"
+    },
+    {
+      "image": "https://i.ibb.co/ZBTPkkz/Education.png",
+      "title": "Good education",
+      "category":"Education",
+      "description": "Good education is the cornerstone of personal and societal development, offering individuals the knowledge and skills needed to thrive in an ever-changing world. It empowers individuals to broaden their horizons, nurturing critical thinking and problem-solving abilities. A strong educational foundation fosters a sense of curiosity and a lifelong love for learning. It plays a pivotal role in promoting equality, as it ensures that everyone has an equal opportunity to reach their full potential. Ultimately, good education not only benefits individuals but also serves as a catalyst for positive societal transformation.",
+      "price": "$29.99",
+      "cardBackgroundColor": "#fafafa",
+      "categoryBackgroundColor": "#9b59b6",
+      "textColor": "#555555"
+    },
+    {
+      "image": "https://i.ibb.co/ZBTPkkz/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "description": "Good education is the cornerstone of personal and societal development, offering individuals the knowledge and skills needed to thrive in an ever-changing world. It empowers individuals to broaden their horizons, nurturing critical thinking and problem-solving abilities. A strong educational foundation fosters a sense of curiosity and a lifelong love for learning. It plays a pivotal role in promoting equality, as it ensures that everyone has an equal opportunity to reach their full potential. Ultimately, good education not only benefits individuals but also serves as a catalyst for positive societal transformation.",
+      "price": "$79.99",
+      "cardBackgroundColor": "#ffffff",
+      "categoryBackgroundColor": "#f39c12",
+      "textColor": "#777777"
+    },
+    {
+      "image": "https://i.ibb.co/ZBTPkkz/Education.png",
+      "title": "Good education",
+      "category": "Education",
+      "description": "Good education is the cornerstone of personal and societal development, offering individuals the knowledge and skills needed to thrive in an ever-changing world. It empowers individuals to broaden their horizons, nurturing critical thinking and problem-solving abilities. A strong educational foundation fosters a sense of curiosity and a lifelong love for learning. It plays a pivotal role in promoting equality, as it ensures that everyone has an equal opportunity to reach their full potential. Ultimately, good education not only benefits individuals but also serves as a catalyst for positive societal transformation.",
+      "price": "$69.99",
+      "cardBackgroundColor": "#f8f8f8",
+      "categoryBackgroundColor": "#1abc9c",
+      "textColor": "#888888"
+    },
+    {
+      "image": "https://i.ibb.co/wwCxtjT/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "description": "Better food for everyone means access to nutritious, safe, and sustainable food options that promote overall well-being. It encompasses a diverse range of fresh, locally sourced ingredients, free from harmful additives and preservatives. This food not only nourishes our bodies but also supports ethical farming practices and reduces environmental impact. Accessible to all, it ensures that individuals and communities can make healthier dietary choices, ultimately fostering a world where everyone can enjoy improved health and quality of life through their food choices.",
+      "price": "$119.99",
+      "cardBackgroundColor": "#fefefe",
+      "categoryBackgroundColor": "#3498db",
+      "textColor": "#999999"
+    },
+    {
+      "image": "https://i.ibb.co/wwCxtjT/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "description": "Better food for everyone means access to nutritious, safe, and sustainable food options that promote overall well-being. It encompasses a diverse range of fresh, locally sourced ingredients, free from harmful additives and preservatives. This food not only nourishes our bodies but also supports ethical farming practices and reduces environmental impact. Accessible to all, it ensures that individuals and communities can make healthier dietary choices, ultimately fostering a world where everyone can enjoy improved health and quality of life through their food choices.",
+      "price": "$54.99",
+      "cardBackgroundColor": "#ffffff",
+      "categoryBackgroundColor": "#e74c3c",
+      "textColor": "#aaaaaa"
+    },
+    {
+      "image": "https://i.ibb.co/wwCxtjT/Food.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "description": "Better food for everyone means access to nutritious, safe, and sustainable food options that promote overall well-being. It encompasses a diverse range of fresh, locally sourced ingredients, free from harmful additives and preservatives. This food not only nourishes our bodies but also supports ethical farming practices and reduces environmental impact. Accessible to all, it ensures that individuals and communities can make healthier dietary choices, ultimately fostering a world where everyone can enjoy improved health and quality of life through their food choices.",
+      "price": "$159.99",
+      "cardBackgroundColor": "#f5f5f5",
+      "categoryBackgroundColor": "#2ecc71",
+      "textColor": "#bbbbbb"
+    },
+    {
+      "image": "https://i.ibb.co/YWS52g8/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "description": "A used clothing drive is a compassionate initiative that encourages people to donate their gently worn clothing items to those in need. This altruistic effort helps individuals and families who may be experiencing financial hardship or facing challenging circumstances. By participating in a used clothing drive, you can make a significant impact on the lives of others, ensuring they have access to clean and serviceable clothing. These drives often bring communities together to promote sustainability and reduce textile waste while spreading warmth and kindness to those who require it most. Your contribution to a used clothing drive can bring comfort, confidence, and hope to those less fortunate.",
+      "price": "$34.99",
+      "cardBackgroundColor": "#fafafa",
+      "categoryBackgroundColor": "#9b59b6",
+      "textColor": "#cccccc"
+    },
+    {
+      "image": "https://i.ibb.co/YWS52g8/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "description": "A used clothing drive is a compassionate initiative that encourages people to donate their gently worn clothing items to those in need. This altruistic effort helps individuals and families who may be experiencing financial hardship or facing challenging circumstances. By participating in a used clothing drive, you can make a significant impact on the lives of others, ensuring they have access to clean and serviceable clothing. These drives often bring communities together to promote sustainability and reduce textile waste while spreading warmth and kindness to those who require it most. Your contribution to a used clothing drive can bring comfort, confidence, and hope to those less fortunate.",
+      "price": "$84.99",
+      "cardBackgroundColor": "#ffffff",
+      "categoryBackgroundColor": "#f39c12",
+      "textColor": "#dddddd"
+    },
+    {
+      "image": "https://i.ibb.co/YWS52g8/Clothing.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "description": "A used clothing drive is a compassionate initiative that encourages people to donate their gently worn clothing items to those in need. This altruistic effort helps individuals and families who may be experiencing financial hardship or facing challenging circumstances. By participating in a used clothing drive, you can make a significant impact on the lives of others, ensuring they have access to clean and serviceable clothing. These drives often bring communities together to promote sustainability and reduce textile waste while spreading warmth and kindness to those who require it most. Your contribution to a used clothing drive can bring comfort, confidence, and hope to those less fortunate.",
+      "price": "$74.99",
+      "cardBackgroundColor": "#f8f8f8",
+      "categoryBackgroundColor": "#1abc9c",
+      "textColor": "#eeeeee"
+    }
+  ]
+  
