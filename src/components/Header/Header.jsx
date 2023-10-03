@@ -1,10 +1,9 @@
 import { NavLink } from "react-router-dom";
-import Banner from "../Banner/Banner";
 import logo from "../../assets/Resources/logo.png"
 
 const Header = () => {
     const links=<>
-    <li><NavLink>Home</NavLink></li>
+    <li><NavLink to={'/'}>Home</NavLink></li>
     <li><NavLink>Donation</NavLink></li>
     <li><NavLink>Statistics</NavLink></li>
     </>
@@ -22,9 +21,7 @@ const Header = () => {
                 </div>
             </div>
 
-            <Banner >
-
-            </Banner>
+           
         </div>
     );
 };

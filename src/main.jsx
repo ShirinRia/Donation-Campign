@@ -6,6 +6,7 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+import Home from './components/Home/Home';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -13,8 +14,8 @@ const router = createBrowserRouter([
     // errorElement: <ErrorPage />,
     children: [
       {
-        path: "contacts/:contactId",
-        element: <Root />,
+        path: "/",
+        element: <Home />,
       },
     ],
   },
