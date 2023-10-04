@@ -10,15 +10,24 @@ import Home from './components/Home/Home';
 import DonationDetails from './components/Donation_details/DonationDetails';
 import Donation from './components/Donation/Donation';
 import Statistics from './components/Statistics/Statistics';
+import Categoricaldata from './components/Categoricaldata/Categoricaldata';
+import Errorpage from './components/ErrorPage/Errorpage';
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Root />,
-    // errorElement: <ErrorPage />,
+    errorElement: <Errorpage />,
     children: [
+      
       {
         path: "/",
         element: <Home />,
+      },
+      {
+      
+        path: "/categoricaldata/:category",
+        element: <Categoricaldata />,
+        loader:()=>fetch('/donationdata.json'),
       },
       {
         path: "/donation",
