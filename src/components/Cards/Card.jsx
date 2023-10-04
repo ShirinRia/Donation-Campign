@@ -1,18 +1,26 @@
+import { Link} from "react-router-dom";
 
 
 const Card = ({card}) => {
-    const {id,image,title,category,description,price,cardBackgroundColor,categoryBackgroundColor,textColor}=card
+    // const navigate = useNavigate();
+    // const go=()=>{
+    //     navigate(`/donationdetails/${id}`)
+    // }
+    const {id,image,title,category,cardBackgroundColor,categoryBackgroundColor,textColor}=card
     return (
        
-           <div className={`card card-compact w-[280px] bg-[${cardBackgroundColor}]`}>
+    
+              <Link to={`/donationdetails/${id}`}>
+            <div  className={`card card-compact w-[280px]`} style={{backgroundColor:cardBackgroundColor}}>
                     <figure><img src={image} alt="Shoes" /></figure>
                     <div className="card-body">
-                    <p className={`bg-[${categoryBackgroundColor}] w-max py-1 px-2 text-[white] rounded-lg text-sm text-[${textColor}] font-semibold`}>{category}</p>
-                        <h2 className={`card-title text-xl text-[${textColor}]`}>{title}</h2>
+                    <p className={` w-max py-1 px-2 text-[white] rounded-lg text-sm font-semibold`} style={{backgroundColor:categoryBackgroundColor, color :textColor}}>{category}</p>
+                        <h2 className={`card-title text-xl ` } style={{color :textColor}}>{title}</h2>
                        
-                        
                     </div>
             </div>
+            </Link>
+            
         
     );
 };
