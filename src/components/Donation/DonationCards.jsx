@@ -1,4 +1,6 @@
 
+import PropTypes from 'prop-types'; // ES6
+
 const DonationCards = ({donateddata}) => {
    
     const {image,title,category,price,cardBackgroundColor,categoryBackgroundColor,textColor}=donateddata
@@ -16,5 +18,7 @@ const DonationCards = ({donateddata}) => {
         </div>
     );
 };
-
+DonationCards.propTypes = {
+    donateddata:PropTypes.object,
+};
 export default DonationCards;

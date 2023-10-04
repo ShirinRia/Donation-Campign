@@ -1,17 +1,15 @@
-import { useContext, useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import Card from "./card";
-import { catcontext } from "../Home/Home";
 
 const Cards = () => {
-    const [allcard,setallcard]=useState([])
+   
     const [displaycard,setdisplaycard]=useState([])
-    const category=useContext(catcontext)
 
     useEffect(() =>{
         fetch('/donationdata.json')
         .then(res=>res.json())
         .then(data=>{
-            setallcard(data)
+          
             setdisplaycard(data)
             
         })

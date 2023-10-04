@@ -16,8 +16,8 @@ const DonationDetails = () => {
         toast('Successfully Donated')
     }
     return (
-        <div className="max-w-6xl mx-[70px] md:mx-auto">
-            <div className="flex items-end h-[220px] md:h-[70vh] w-[70vw] bg-contain md:bg-cover bg-no-repeat"style={{backgroundImage: `url(${image})` }}>
+        <div className="max-w-6xl mx-[70px]  w-[70vw] md:w-full md:mx-auto">
+            <div className="flex items-end h-[220px]  md:h-[70vh] bg-contain md:bg-cover bg-no-repeat"style={{backgroundImage: `url(${image})` }}>
                 
                 <div className="hero-overlay  h-[40%] md:h-[20%] bg-opacity-60 flex items-center">
                     <div className="ml-8">

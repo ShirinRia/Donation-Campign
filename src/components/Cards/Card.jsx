@@ -1,5 +1,5 @@
 import { Link} from "react-router-dom";
-
+import PropTypes from 'prop-types'; // ES6
 
 const Card = ({card}) => {
     // const navigate = useNavigate();
@@ -24,5 +24,7 @@ const Card = ({card}) => {
         
     );
 };
-
+Card.propTypes = {
+    card:PropTypes.object,
+};
 export default Card;
