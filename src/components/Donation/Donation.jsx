@@ -23,7 +23,7 @@ const Donation = () => {
     const btnhidden2 = length===donated.length ? " hidden" : "visible";
     return (
         <div>
-            <div className="grid md:grid-cols-2 max-w-6xl mx-auto my-14 gap-6">
+            <div className="grid lg:grid-cols-2 max-w-6xl ml-[25px] mr-[25px] lg:mx-auto my-14 gap-6">
             {
                 donated.slice(0,length).map((donateddata)=>
                      <DonationCards key={donateddata.id}

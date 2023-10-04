@@ -20,7 +20,7 @@ const Cards = () => {
     },[])
     
     return (
-        <main className="max-w-6xl mx-auto my-20 ">
+        <main className="max-w-6xl mx-[80px] md:mx-auto my-20 ">
             <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-20">
                
                 {
